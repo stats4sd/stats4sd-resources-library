@@ -1,6 +1,8 @@
 <?php
 
 use App\Livewire\BrowseAll;
+use App\Livewire\Collections;
+use App\Livewire\Resources;
 use App\Models\Collection;
 use App\Models\Trove;
 use Illuminate\Support\Facades\Route;
@@ -25,7 +27,7 @@ Route::group([
     });
 
     Route::get('/home', function () {
-        return view('home');
+        return view('stats4sd-home');
     })->name('home');
 
     Route::get('/resources/preview/{slug}', function ($slug) {
@@ -51,6 +53,18 @@ Route::group([
     })->name('resources.show');
 
     Route::livewire('/browse-all', BrowseAll::class)->name('browse-all');
+
+    Route::livewire('/resources', Resources::class)->name('resources');
+
+    Route::livewire('/collections', Collections::class)->name('collections');
+
+    Route::get('/theme-pages', function () {
+        return view('theme-pages');
+    })->name('theme-pages');
+
+    Route::get('/frn', function () {
+        return view('frn');
+    })->name('frn');
 
     Route::get('/collections/{id}', function ($id) {
         $collection = Collection::where('id', $id)->where('public', 1)->firstOrFail();
