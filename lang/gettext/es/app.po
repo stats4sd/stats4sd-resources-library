@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-07-24T08:52:29+00:00\n"
+"PO-Revision-Date: 2026-07-24T08:52:29+00:00\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "Watch on"
+msgstr "Ver en"
+
+msgid "Quick links"
+msgstr "Enlaces rápidos"
+
+msgid "Change Language"
+msgstr "Cambiar idioma"
+
+msgid "Collection"
+msgstr "Colección"
+
+msgid "resources"
+msgstr "recursos"
+
+msgid "Available in:"
+msgstr "Disponible en:"
+
+msgid "Browse Library"
+msgstr "Explorar biblioteca"
+
+msgid "Share"
+msgstr "Compartir"
+
+msgid "Share by email"
+msgstr "Compartir por correo electrónico"
+
+msgid "Share on WhatsApp"
+msgstr "Compartir en WhatsApp"
+
+msgid "Share on LinkedIn"
+msgstr "Compartir en LinkedIn"
+
+msgid "Copy link"
+msgstr "Copiar enlace"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Resources in this collection"
+msgstr "Recursos en esta colección"
+
+msgid "VIEW"
+msgstr "VER"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Authors"
+msgstr "Autores"
+
+msgid "PREVIEW MODE: This resource has not been published and is only visible to authorised users"
+msgstr "MODO DE VISTA PREVIA: Este recurso no ha sido publicado y solo es visible para usuarios autorizados"
+
+msgid "View / Download"
+msgstr "Ver / Descargar"
+
+msgid "Download all (ZIP)"
+msgstr "Descargar todo (ZIP)"
+
+msgid "Collections including this resource"
+msgstr "Colecciones que incluyen este recurso"
+
+msgid "Related resources"
+msgstr "Recursos relacionados"
+
+msgid "Browse by topic"
+msgstr "Explorar por tema"
+
+msgid "No resources available for this collection."
+msgstr "No hay recursos disponibles para esta colección."
+
+msgid "No related resources found."
+msgstr "No se encontraron recursos relacionados."
+
+msgid "No collections available for this resource."
+msgstr "No hay colecciones disponibles para este recurso."
+
+msgid "Search and filter"
+msgstr "Buscar y filtrar"
+
+msgid "Search here"
+msgstr "Buscar aquí"
+
+msgid "Showing "
+msgstr "Mostrando "
+
+msgid "out of"
+msgstr "de"
+
+msgid " resources and collections"
+msgstr " recursos y colecciones"
+
+msgid "Text-based search is temporarily unavailable. You can still browse resources below, and use the filters to narrow your search."
+msgstr "La búsqueda por texto no está disponible temporalmente. Aún puede explorar los recursos a continuación y usar los filtros para acotar su búsqueda."
+
+msgid "No resources or collections match your search or filters."
+msgstr "Ningún recurso o colección coincide con su búsqueda o filtros."
+
+msgid "No resources or collections have been added yet."
+msgstr "Todavía no se han añadido recursos ni colecciones."
+
+msgid "Clear search"
+msgstr "Borrar búsqueda"
+
+msgid "Clear Filters"
+msgstr "Borrar filtros"
+
+msgid "What is an FRN?"
+msgstr "¿Qué es una FRN?"
+
+msgid "Discover more about farmer research networks and how they work."
+msgstr "Descubra más sobre las redes de investigación de agricultores y cómo funcionan."
+
+msgid "Tools for FRNs"
+msgstr "Herramientas para FRNs"
+
+msgid "Guides, methods and references for FRNs."
+msgstr "Guías, métodos y referencias para FRNs."
+
+msgid "Research in FRNs"
+msgstr "Investigación en FRNs"
+
+msgid "Resources related to research methods, and how to include farmers in the research process."
+msgstr "Recursos relacionados con métodos de investigación y cómo incluir a los agricultores en el proceso de investigación."
+
+msgid "FRN principles"
+msgstr "Principios de FRN"
+
+msgid "Important considerations for ethical and inclusive research practices."
+msgstr "Consideraciones importantes para prácticas de investigación éticas e inclusivas."
+
+msgid "Case Studies"
+msgstr "Estudios de caso"
+
+msgid "Insights into what FRNs have been doing."
+msgstr "Conocimientos sobre lo que han estado haciendo las FRNs."
+
+msgid "FRN Research Methods Hub"
+msgstr "Centro de métodos de investigación FRN"
+
+msgid "Part of the"
+msgstr "Parte de la"
+
+msgid "Stats4SD Resources Library"
+msgstr "Biblioteca de recursos Stats4SD"
+
+msgid "Library home"
+msgstr "Biblioteca inicio"
+
+msgid "A library of reference materials, tools, and useful information relevant to farmer research networks. Provided by the"
+msgstr "Una biblioteca de materiales de referencia, herramientas e información útil relevante para las redes de investigación de agricultores. Proporcionado por el "
+
+msgid "Research Methods Support project"
+msgstr "Proyecto de Apoyo a Métodos de Investigación"
+
+msgid "of CRFS."
+msgstr "de CRFS."
+
+msgid "View all resources"
+msgstr "Ver todos los recursos"
+
+msgid "Featured resources"
+msgstr "Recursos destacados"
+
+msgid "Search or explore resources"
+msgstr "Buscar o explorar recursos"
+
+msgid "Library Home"
+msgstr "Biblioteca Inicio"
+
+msgid "Browse the full library of resources and collections."
+msgstr "Explore la biblioteca completa de recursos y colecciones."
+
+msgid "Resources"
+msgstr "Recursos"
+
+msgid "Collections"
+msgstr "Colecciones"
+
+msgid "Browse All"
+msgstr "Explorar todos"
+
+msgid "Theme Pages"
+msgstr "Páginas temáticas"
+
+msgid "Search resources"
+msgstr "Buscar recursos"
+
+msgid "Guides, tools, videos, papers and other items that we use and recommend to others."
+msgstr "Guías, herramientas, vídeos, documentos y otros artículos que utilizamos y recomendamos."
+
+msgid "Search collections"
+msgstr "Buscar colecciones"
+
+msgid "A collection is a group of resources compiled together for a specific purpose, such as series of guides on a specific topic, or the reading for an online course."
+msgstr "Una colección es un grupo de recursos recopilados con un fin específico, como una serie de guías sobre un tema concreto o las lecturas de un curso en línea."
+
+msgid "Browse the full library of resources and collections on a variety of topics."
+msgstr "Explore la biblioteca completa de recursos y colecciones sobre diversos temas."
+
+msgid "Theme pages"
+msgstr "Páginas temáticas"
+
+msgid "Smaller offshoot libraries focused around a specific topic or featuring resources from partner organisations."
+msgstr "Bibliotecas derivadas más pequeñas centradas en un tema específico o con recursos de organizaciones asociadas."
+
+msgid "A library of reference materials, tools, and useful information relevant to farmer research networks."
+msgstr "Una biblioteca de materiales de referencia, herramientas e información útil relevante para las redes de investigación de agricultores."
+
+msgid "Search resources and collections"
+msgstr "Buscar recursos y colecciones"
+
+msgid "Filters:"
+msgstr "Filtros:"
+
+msgid "Language:"
+msgstr "Idioma:"
+
+msgid "Type:"
+msgstr "Tipo:"
+
+msgid "Pagination"
+msgstr "Paginación"
+
+msgid "First page"
+msgstr "Primera página"
+
+msgid "First"
+msgstr "Primera"
+
+msgid "Previous page"
+msgstr "Página anterior"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Page"
+msgstr "Página"
+
+msgid "Next page"
+msgstr "Página siguiente"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Last page"
+msgstr "Última página"
+
+msgid "Last"
+msgstr "Última"
+
+msgid "collections"
+msgstr "colecciones"
+
+msgid "No collections match your search or filters."
+msgstr "Ninguna colección coincide con su búsqueda o filtros."
+
+msgid "No collections have been added yet."
+msgstr "Aún no se han añadido colecciones."
+
+msgid " resources"
+msgstr " recursos"
+
+msgid "No resources match your search or filters."
+msgstr "Ningún recurso coincide con su búsqueda o filtros."
+
+msgid "No resources have been added yet."
+msgstr "Aún no se han añadido recursos."
+
+msgid "Text-based search is temporarily unavailable. You can still browse below, and use the filters to narrow your search."
+msgstr "La búsqueda por texto no está disponible temporalmente. Puede seguir explorando a continuación y usar los filtros para acotar su búsqueda."
+
+msgid "Stats4SD Home"
+msgstr "Inicio de Stats4SD"

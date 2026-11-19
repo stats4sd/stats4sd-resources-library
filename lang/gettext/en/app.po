@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-07-24T08:52:28+00:00\n"
+"PO-Revision-Date: 2026-07-24T08:52:28+00:00\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "Watch on"
+msgstr "Watch on"
+
+msgid "Quick links"
+msgstr "Quick links"
+
+msgid "Change Language"
+msgstr "Change Language"
+
+msgid "Collection"
+msgstr "Collection"
+
+msgid "resources"
+msgstr "resources"
+
+msgid "Available in:"
+msgstr "Available in:"
+
+msgid "Browse Library"
+msgstr "Browse Library"
+
+msgid "Share"
+msgstr "Share"
+
+msgid "Share by email"
+msgstr "Share by email"
+
+msgid "Share on WhatsApp"
+msgstr "Share on WhatsApp"
+
+msgid "Share on LinkedIn"
+msgstr "Share on LinkedIn"
+
+msgid "Copy link"
+msgstr "Copy link"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Resources in this collection"
+msgstr "Resources in this collection"
+
+msgid "VIEW"
+msgstr "VIEW"
+
+msgid "Author"
+msgstr "Author"
+
+msgid "Authors"
+msgstr "Authors"
+
+msgid "PREVIEW MODE: This resource has not been published and is only visible to authorised users"
+msgstr "PREVIEW MODE: This resource has not been published and is only visible to authorised users"
+
+msgid "View / Download"
+msgstr "View / Download"
+
+msgid "Download all (ZIP)"
+msgstr "Download all (ZIP)"
+
+msgid "Collections including this resource"
+msgstr "Collections including this resource"
+
+msgid "Related resources"
+msgstr "Related resources"
+
+msgid "Browse by topic"
+msgstr "Browse by topic"
+
+msgid "No resources available for this collection."
+msgstr "No resources available for this collection."
+
+msgid "No related resources found."
+msgstr "No related resources found."
+
+msgid "No collections available for this resource."
+msgstr "No collections available for this resource."
+
+msgid "Search and filter"
+msgstr "Search and filter"
+
+msgid "Search here"
+msgstr "Search here"
+
+msgid "Showing "
+msgstr "Showing "
+
+msgid "out of"
+msgstr "out of"
+
+msgid " resources and collections"
+msgstr " resources and collections"
+
+msgid "Text-based search is temporarily unavailable. You can still browse resources below, and use the filters to narrow your search."
+msgstr "Text-based search is temporarily unavailable. You can still browse resources below, and use the filters to narrow your search."
+
+msgid "No resources or collections match your search or filters."
+msgstr "No resources or collections match your search or filters."
+
+msgid "No resources or collections have been added yet."
+msgstr "No resources or collections have been added yet."
+
+msgid "Clear search"
+msgstr "Clear search"
+
+msgid "Clear Filters"
+msgstr "Clear Filters"
+
+msgid "What is an FRN?"
+msgstr "What is an FRN?"
+
+msgid "Discover more about farmer research networks and how they work."
+msgstr "Discover more about farmer research networks and how they work."
+
+msgid "Tools for FRNs"
+msgstr "Tools for FRNs"
+
+msgid "Guides, methods and references for FRNs."
+msgstr "Guides, methods and references for FRNs."
+
+msgid "Research in FRNs"
+msgstr "Research in FRNs"
+
+msgid "Resources related to research methods, and how to include farmers in the research process."
+msgstr "Resources related to research methods, and how to include farmers in the research process."
+
+msgid "FRN principles"
+msgstr "FRN principles"
+
+msgid "Important considerations for ethical and inclusive research practices."
+msgstr "Important considerations for ethical and inclusive research practices."
+
+msgid "Case Studies"
+msgstr "Case Studies"
+
+msgid "Insights into what FRNs have been doing."
+msgstr "Insights into what FRNs have been doing."
+
+msgid "FRN Research Methods Hub"
+msgstr "FRN Research Methods Hub"
+
+msgid "Part of the"
+msgstr "Part of the"
+
+msgid "Stats4SD Resources Library"
+msgstr "Stats4SD Resources Library"
+
+msgid "Library home"
+msgstr "Library home"
+
+msgid "A library of reference materials, tools, and useful information relevant to farmer research networks. Provided by the"
+msgstr "A library of reference materials, tools, and useful information relevant to farmer research networks. Provided by the"
+
+msgid "Research Methods Support project"
+msgstr "Research Methods Support project"
+
+msgid "of CRFS."
+msgstr "of CRFS."
+
+msgid "View all resources"
+msgstr "View all resources"
+
+msgid "Featured resources"
+msgstr "Featured resources"
+
+msgid "Search or explore resources"
+msgstr "Search or explore resources"
+
+msgid "Library Home"
+msgstr "Library Home"
+
+msgid "Browse the full library of resources and collections."
+msgstr "Browse the full library of resources and collections."
+
+msgid "Resources"
+msgstr "Resources"
+
+msgid "Collections"
+msgstr "Collections"
+
+msgid "Browse All"
+msgstr "Browse All"
+
+msgid "Theme Pages"
+msgstr "Theme Pages"
+
+msgid "Search resources"
+msgstr "Search resources"
+
+msgid "Guides, tools, videos, papers and other items that we use and recommend to others."
+msgstr "Guides, tools, videos, papers and other items that we use and recommend to others."
+
+msgid "Search collections"
+msgstr "Search collections"
+
+msgid "A collection is a group of resources compiled together for a specific purpose, such as series of guides on a specific topic, or the reading for an online course."
+msgstr "A collection is a group of resources compiled together for a specific purpose, such as series of guides on a specific topic, or the reading for an online course."
+
+msgid "Browse the full library of resources and collections on a variety of topics."
+msgstr "Browse the full library of resources and collections on a variety of topics."
+
+msgid "Theme pages"
+msgstr "Theme pages"
+
+msgid "Smaller offshoot libraries focused around a specific topic or featuring resources from partner organisations."
+msgstr "Smaller offshoot libraries focused around a specific topic or featuring resources from partner organisations."
+
+msgid "A library of reference materials, tools, and useful information relevant to farmer research networks."
+msgstr "A library of reference materials, tools, and useful information relevant to farmer research networks."
+
+msgid "Search resources and collections"
+msgstr "Search resources and collections"
+
+msgid "Filters:"
+msgstr "Filters:"
+
+msgid "Language:"
+msgstr "Language:"
+
+msgid "Type:"
+msgstr "Type:"
+
+msgid "Pagination"
+msgstr "Pagination"
+
+msgid "First page"
+msgstr "First page"
+
+msgid "First"
+msgstr "First"
+
+msgid "Previous page"
+msgstr "Previous page"
+
+msgid "Previous"
+msgstr "Previous"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "Next page"
+msgstr "Next page"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Last page"
+msgstr "Last page"
+
+msgid "Last"
+msgstr "Last"
+
+msgid "collections"
+msgstr "collections"
+
+msgid "No collections match your search or filters."
+msgstr "No collections match your search or filters."
+
+msgid "No collections have been added yet."
+msgstr "No collections have been added yet."
+
+msgid " resources"
+msgstr " resources"
+
+msgid "No resources match your search or filters."
+msgstr "No resources match your search or filters."
+
+msgid "No resources have been added yet."
+msgstr "No resources have been added yet."
+
+msgid "Text-based search is temporarily unavailable. You can still browse below, and use the filters to narrow your search."
+msgstr "Text-based search is temporarily unavailable. You can still browse below, and use the filters to narrow your search."
+
+msgid "Stats4SD Home"
+msgstr "Stats4SD Home"

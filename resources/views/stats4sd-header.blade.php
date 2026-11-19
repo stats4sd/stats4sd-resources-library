@@ -7,7 +7,7 @@
                 <svg xmlns="http://www.w3.org/2000/svg" class="mr-2" width="20" height="20" fill="white" viewBox="0 0 20 20">
                     <path d="M0 12l9-8v6h15v4h-15v6z" />
                 </svg>
-                Stats4SD Home
+                {{ t('Stats4SD Home') }}
             </a>
             @if(file_exists(public_path('images/logo.png')))
                 <a href="{{ config('branding.home_url') }}">
