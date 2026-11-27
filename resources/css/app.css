@@ -21,6 +21,9 @@
     --color-brand-bg: var(--brand-bg);
     --color-brand-footer-bg: var(--brand-footer-bg);
     --color-brand-footer-text: var(--brand-footer-text);
+
+    /* Colours used by the FRN hub page. */
+    --color-frn-green: #0F443ACF;
 }
 
 :root {

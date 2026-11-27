@@ -17,7 +17,7 @@
     </head>
     <body class="flex flex-col min-h-screen">
         @if(empty($hideHeader))
-            @include('header')
+            @include('stats4sd-header')
         @endif
         <main class="flex-1">
         @isset($slot)
