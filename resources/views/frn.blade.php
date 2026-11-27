@@ -108,7 +108,7 @@
 
                     <div class="flex items-start h-full w-full sm:w-[18rem]">
                         <a class="p-8 bg-brand-primary text-white sm:rounded-bl-[3rem] w-full font-opensans 2xl:rounded-b-[3rem] flex flex-col items-start justify-left text-left  "
-                            href="https://stats4sd.org/resources">
+                            href="/home">
                             <span class="uppercase text-sm font-normal ">{{ t('Part of the') }}</span>
                             <h2 class="text-xl font-bold mb-8">{{ t('Stats4SD Resources Library') }}</h2>
                             <div class="flex">
@@ -194,7 +194,7 @@
                             </svg>
                         </div>
                         <div class="h-48 bg-cover bg-center"
-                            style="background-image: linear-gradient(to bottom, rgba(255,255,255,0), rgba(0,0,0,0.14)), url('{{ $c['img'] }}">
+                            style="background-image: linear-gradient(to bottom, rgba(255,255,255,0), rgba(0,0,0,0.14)), url('{{ $c['img'] }}')">
                         </div>
                         <div class="p-10 text-white">
                             <p class="text-xs  uppercase font-semibold ">
@@ -237,8 +237,8 @@
 
                         <div class="w-full h-80  h-[25rem] bg-cover bg-center flex flex-col-reverse"
                             style="background-image: linear-gradient(to bottom, rgba(255,255,255,0), rgba(0,0,0,0.44)), url('{{ $resource->getCoverImageUrl() }}')">
-                            <div class="py-8 px-24 bg-black bg-opacity-75 text-white">
-                                <h3 class="font-bold text-lg group-hover:text-stats4sd-green mb-2">
+                            <div class="py-8 px-24 bg-black/75 text-white">
+                                <h3 class="font-bold text-lg mb-2">
                                     {{ $resource->getTranslation('title', $locale) ?? $resource->getTranslation('title', 'en') }}
                                 </h3>
                                 <p class="text-xs">

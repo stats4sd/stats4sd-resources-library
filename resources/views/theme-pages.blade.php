@@ -30,10 +30,10 @@
             <a href="frn"
                 class="relative group h-[26rem] w-[23rem] overflow-hidden hover-effect rounded-t-3xl rounded-bl-3xl mx-auto md:mx-0">
 
-                <img src="images/frn-hub.jpg" alt="IFA Let's EAT" class="absolute inset-0 w-full h-full object-cover z-0">
+                <img src="images/frn-hub.jpg" alt="{{ t('FRN Research Methods Hub') }}" class="absolute inset-0 w-full h-full object-cover z-0">
 
                 <div
-                    class="absolute bottom-0 w-full z-10 bg-black bg-opacity-70 text-white p-6 pb-3 rounded-bl-3xl h-[12rem]">
+                    class="absolute bottom-0 w-full z-10 bg-black/70 text-white p-6 pb-3 rounded-bl-3xl h-[12rem]">
                     <div class="text-xl font-bold mb-2 uppercase">{{ t('FRN Research Methods Hub') }}</div>
                     <p class="text-base">{{ t('A library of reference materials, tools, and useful information relevant to farmer research networks.') }}
                     </p>

@@ -40,7 +40,7 @@
                         {{ t('Collections') }}
                     </a></li>
                 <li><a href="/browse-all"
-                        class=" hover:text-brand-primary  {{ request()->is('browse-all') ? 'border-b-[6px] pb-5 border-brand-primary pb-1' : '' }} !hover:text-red">
+                        class=" hover:text-brand-primary {{ request()->is('browse-all') ? 'border-b-[6px] pb-5 border-brand-primary pb-1' : '' }} ">
                         {{ t('Browse All') }}
                     </a></li>
                 <li><a href="/theme-pages"
