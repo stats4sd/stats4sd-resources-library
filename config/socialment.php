@@ -18,7 +18,7 @@ return [
     ],
 
     'view' => [
-        // Set the text above the provider list
+        // Set the text under the provider list (shown above the email login form)
         'prompt' => 'Or login with email:',
         // Or change out the view completely with your own
         'providers-list' => 'filament.socialment.providers-list',

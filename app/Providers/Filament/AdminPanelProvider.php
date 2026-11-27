@@ -2,6 +2,7 @@
 
 namespace App\Providers\Filament;
 
+use App\Enums\UserRole;
 use App\Filament\Pages\Auth\Register;
 use App\Filament\Pages\Auth\SetPassword;
 use App\Filament\Pages\Login;
@@ -14,6 +15,9 @@ use App\Filament\Resources\TagTypeResource;
 use App\Filament\Resources\TroveResource;
 use App\Filament\Resources\TroveTypeResource;
 use App\Filament\Resources\UserResource;
+use App\Models\User;
+use ChrisReedIO\Socialment\Models\ConnectedAccount;
+use ChrisReedIO\Socialment\SocialmentPlugin;
 use Filament\FontProviders\LocalFontProvider;
 use Filament\Http\Middleware\Authenticate;
 use Filament\Http\Middleware\DisableBladeIconComponents;
@@ -38,7 +42,17 @@ class AdminPanelProvider extends PanelProvider
 {
     public function panel(Panel $panel): Panel
     {
+        $microsoftLogin = SocialmentPlugin::make()
+            ->visible(false)
+            ->registerProvider('azure', 'fab-microsoft', config('branding.org_name').' Staff (via Microsoft)')
+            ->createUserUsing($this->findOrCreateMicrosoftUser(...));
+
         return $panel
+            ->renderHook('panels::auth.login.form.before', fn () => view('filament.socialment.providers-list', [
+                'providers' => $microsoftLogin->getProviders(),
+                'panel' => $panel,
+                'errorMessage' => session('socialment.error'),
+            ]))
             ->default()
             ->id('admin')
             ->homeUrl('/home')
@@ -108,11 +122,35 @@ class AdminPanelProvider extends PanelProvider
                     ]);
             })
             ->plugins([
+                $microsoftLogin,
                 SpatieTranslatablePlugin::make()
                     ->defaultLocales(array_keys(config('branding.locales', ['en' => 'English']))),
             ])
             ->viteTheme('resources/css/filament/admin/theme.css')
             ->font('Inter', provider: LocalFontProvider::class);
+    }
+
+    /**
+     * The account a first-time Microsoft login signs in as: the existing user with that
+     * email address, or a new one. New users start as editors; an existing user keeps the
+     * role they already have.
+     */
+    private function findOrCreateMicrosoftUser(ConnectedAccount $account): User
+    {
+        $existingUser = User::where('email', $account->email)->first();
+
+        if ($existingUser) {
+            return $existingUser;
+        }
+
+        $newUser = User::create([
+            'name' => $account->name,
+            'email' => $account->email,
+        ]);
+
+        $newUser->assignRole(UserRole::Editor->value);
+
+        return $newUser;
     }
 
     /**
